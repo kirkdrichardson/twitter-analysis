@@ -5,12 +5,10 @@
 
 ### Folders & Files
 
--**Python_data**
-
+- **Python_data**
 ...This folder contains ordered scripts used to generate graphics and variables used in the paper. The scripts have the extension .ipynb, which is designed for Jupyter Notebook. However, Github renders them well. They are written both as a supplement to the analysis in the included .pdf, and to give a general sense of the every-day data tasks that can be accomplished using the Python `pandas` package.
 
 - **Stata_data**
-
 ...This folder contains the Stata script (.do), and datasets (.csv and .dta) that can be used to replicate the regression analyses discussed in the paper.
 
 <br>
