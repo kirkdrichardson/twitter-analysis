@@ -1,7 +1,7 @@
 # Using Python for data collection, cleaning, and manipulation
 
 
-><p style='font-size: large;'>This collection of scripts, datasets, and variable manipulations is a supplement to the analysis "Marketing the Mountain State: A large N study of user engagement on Twitter."
+><p style='font-size: large;'>This collection of scripts, datasets, and variable manipulations is a supplement to the analysis "Marketing the Mountain State: A large N study of user engagement on Twitter." Paper available [here](http://ir.library.illinoisstate.edu/cppg/32/). 
 
 ### Folders & Files
 
